@@ -15,12 +15,12 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Button } from 'qy-component';
+import { Button, QyIcon } from 'qy-component';
 
 export default () => {
   const onClick = (e) => console.log(11122211);
   return (
-    <Button type="primary" onClick={onClick}>
+    <Button icon={<QyIcon icon="cuowu" />} type="primary" onClick={onClick}>
       旗云Button
     </Button>
   );

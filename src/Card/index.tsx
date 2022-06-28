@@ -1,3 +1,4 @@
 import React from 'react';
-
-export default ({ title }: { title: string }) => <h1>{title}</h1>;
+import type { CardProps } from 'antd';
+import { Card } from 'antd';
+export default (props: CardProps) => <Card {...props} />;

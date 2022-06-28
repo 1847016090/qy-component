@@ -15,7 +15,7 @@ Demo:
 
 ```tsx
 import React from 'react';
-import { Card } from 'qy-component';
+import { Card, Button } from 'qy-component';
 
-export default () => <Card title="First Demo" />;
+export default () => <Card title="标题">我是Card组件</Card>;
 ```
