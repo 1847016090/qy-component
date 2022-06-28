@@ -8,6 +8,7 @@ group:
   title: 基础组件
   order: 1
 ---
+
 ## Button
 
 Demo:
@@ -16,5 +17,12 @@ Demo:
 import React from 'react';
 import { Button } from 'qy-component';
 
-export default () => <Button title="First Demo" />;
+export default () => {
+  const onClick = (e) => console.log(11122211);
+  return (
+    <Button type="primary" onClick={onClick}>
+      旗云Button
+    </Button>
+  );
+};
 ```
