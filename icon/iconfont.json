@@ -1,0 +1,191 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "100499982",
+      "name": "上传-互动",
+      "font_class": "shangchuan",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "100499985",
+      "name": "过滤、条件",
+      "font_class": "guolvtiaojian",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "100499986",
+      "name": "错误",
+      "font_class": "cuowu",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "100499987",
+      "name": "正确",
+      "font_class": "zhengque",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "100499988",
+      "name": "KHCFDC_模板",
+      "font_class": "moban",
+      "unicode": "e6d4",
+      "unicode_decimal": 59092
+    },
+    {
+      "icon_id": "100499989",
+      "name": "发布为模版",
+      "font_class": "fabuweimoban",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "100499990",
+      "name": "总结",
+      "font_class": "zongjie",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "100499991",
+      "name": "规则",
+      "font_class": "guize",
+      "unicode": "e78b",
+      "unicode_decimal": 59275
+    },
+    {
+      "icon_id": "100499993",
+      "name": "备忘录",
+      "font_class": "beiwanglu",
+      "unicode": "e89f",
+      "unicode_decimal": 59551
+    },
+    {
+      "icon_id": "100499994",
+      "name": "档案，商务办公",
+      "font_class": "a-danganshangwubangong",
+      "unicode": "e8a0",
+      "unicode_decimal": 59552
+    },
+    {
+      "icon_id": "100499995",
+      "name": "趋势，统计，报告",
+      "font_class": "a-qushitongjibaogao",
+      "unicode": "e8a1",
+      "unicode_decimal": 59553
+    },
+    {
+      "icon_id": "100499996",
+      "name": "资金，固定资产，资产，黄金",
+      "font_class": "a-zijingudingzichanzichanhuangjin",
+      "unicode": "e8a2",
+      "unicode_decimal": 59554
+    },
+    {
+      "icon_id": "100499997",
+      "name": "收纳，盒子，商务办公",
+      "font_class": "a-shounahezishangwubangong",
+      "unicode": "e8a3",
+      "unicode_decimal": 59555
+    },
+    {
+      "icon_id": "100499998",
+      "name": "大数据，云数据，远端数据库",
+      "font_class": "a-dashujuyunshujuyuanduanshujuku",
+      "unicode": "e8c2",
+      "unicode_decimal": 59586
+    },
+    {
+      "icon_id": "100499999",
+      "name": "大数据",
+      "font_class": "dashuju",
+      "unicode": "e8c3",
+      "unicode_decimal": 59587
+    },
+    {
+      "icon_id": "100504740",
+      "name": "icon_文件夹_开",
+      "font_class": "icon_wenjianjia_kai",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "100504741",
+      "name": "icon_文件_添加",
+      "font_class": "icon_wenjian_tianjia",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "100504771",
+      "name": "下箭头",
+      "font_class": "sanjiaodown",
+      "unicode": "e6b5",
+      "unicode_decimal": 59061
+    },
+    {
+      "icon_id": "102156167",
+      "name": "图钉",
+      "font_class": "pin-full",
+      "unicode": "e9f3",
+      "unicode_decimal": 59891
+    },
+    {
+      "icon_id": "101412915",
+      "name": "D-政治法律",
+      "font_class": "D-zhengzhifalv",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "101412916",
+      "name": "J-艺术",
+      "font_class": "J-yishu",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "101412917",
+      "name": "O-数学",
+      "font_class": "O-shuxue",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "101412918",
+      "name": "X-环境",
+      "font_class": "X-huanjing",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "101412919",
+      "name": "Z-综合性",
+      "font_class": "Z-zonghexing",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "101412920",
+      "name": "文件",
+      "font_class": "wenjian",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "101412921",
+      "name": "数据集成",
+      "font_class": "shujujicheng",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}
