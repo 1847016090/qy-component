@@ -9,13 +9,13 @@ group:
   order: 1
 ---
 
-## Card
+## QyCard
 
 Demo:
 
 ```tsx
 import React from 'react';
-import { Card, Button } from 'qy-component';
+import { QyCard } from 'qy-component';
 
-export default () => <Card title="标题">我是Card组件</Card>;
+export default () => <QyCard title="标题">我是Card组件</QyCard>;
 ```

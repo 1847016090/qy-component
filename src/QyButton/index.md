@@ -9,20 +9,20 @@ group:
   order: 1
 ---
 
-## Button
+## QyButton
 
 Demo:
 
 ```tsx
 import React from 'react';
-import { Button, QyIcon } from 'qy-component';
+import { QyButton, QyIcon } from 'qy-component';
 
 export default () => {
   const onClick = (e) => console.log(11122211);
   return (
-    <Button icon={<QyIcon icon="cuowu" />} type="primary" onClick={onClick}>
+    <QyButton icon={<QyIcon icon="cuowu" />} type="primary" onClick={onClick}>
       旗云Button
-    </Button>
+    </QyButton>
   );
 };
 ```
